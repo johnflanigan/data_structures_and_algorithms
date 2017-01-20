@@ -1,0 +1,5 @@
+# Text input files
+*.txt
+
+# Mac artifacts
+.DS_Store
